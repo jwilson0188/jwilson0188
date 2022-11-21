@@ -1,4 +1,4 @@
-![Social-BannersGithub](https://user-images.githubusercontent.com/61293965/203174097-8ff59358-e6b0-4e8e-af96-3d1532e277e5.png)
+
 
 - 👋 Hi, I’m @jwilson0188
 - 👀 I’m interested in ... Software Engineering.
